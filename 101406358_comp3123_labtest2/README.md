@@ -9,8 +9,7 @@ This ReactJS application fetches weather information using the OpenWeatherMap AP
 
 ## Features
 
-- **Dynamic Content**: Use state and hooks for dynamic content changes.
-- **Responsive Design**: Ensure the app looks good on different screen sizes.
+- **Dynamic Content**:
 - **API Integration**: Utilize the OpenWeatherMap API for weather data.
 
 ## To Run
