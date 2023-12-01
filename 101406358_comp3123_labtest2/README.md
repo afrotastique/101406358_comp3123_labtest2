@@ -5,11 +5,7 @@
 This ReactJS application fetches weather information using the OpenWeatherMap API and displays it in a user-friendly interface.
 
 ## Screenshots
-
-![Home Page](screenshots/home-page.png)
-
-
-![Weather Details](screenshots/weather-details.png)
+![Weather App](Weather App.png)
 
 ## Features
 
@@ -17,10 +13,9 @@ This ReactJS application fetches weather information using the OpenWeatherMap AP
 - **Responsive Design**: Ensure the app looks good on different screen sizes.
 - **API Integration**: Utilize the OpenWeatherMap API for weather data.
 
-## How to Run
+## To Run
 
-1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/studentid_comp3123_labtest2.git
+   git clone https://github.com/afrotastique/101406358_comp3123_labtest2.git
 
